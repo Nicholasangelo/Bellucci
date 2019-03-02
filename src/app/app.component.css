@@ -1,0 +1,36 @@
+.container{
+    position: relative;
+}
+.yellowBox{
+    height: 100px;
+    width: 100px;
+    opacity: .5;
+    background-color: yellow;
+}
+.blueBox{
+    position: relative;
+    left: 4%;
+    bottom: 50px;
+    height: 100px;
+    width: 100px;
+    opacity: .5;
+    background-color: rgb(175, 93, 252);
+}
+.redBox{
+    position: relative;
+    left: 8%;
+    bottom: 100px;
+    height: 100px;
+    width: 100px;
+    opacity: .5;
+    background-color: rgb(255, 133, 51);
+}
+.greenBox{
+    position: relative;
+    left:12%;
+    bottom: 150px;
+    height: 100px;
+    width: 100px;
+    opacity: .5;
+    background-color: rgb(79, 207, 79);
+}
