@@ -1,0 +1,94 @@
+.grid-container{
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #2196F3;
+    padding: 10px;
+  }
+  .grid-item{
+      width: 30vw;
+      height: 20vh;
+  }
+  #mainLogo{
+      height: 400px;
+      display: block;
+  }
+  #header{
+      height: 30vh;
+  }
+  .boxContainer{
+      position: relative;
+      left: 12%;
+  }
+  .boxContainer2{
+      position: relative;
+      float: right;
+      left: 65%;
+      
+  }
+  .yellowBox{
+      position: relative;
+      height: 100px;
+      width: 100px;
+      opacity: .5;
+      background-color: yellow;
+  }
+  .yellowBox2{
+      height: 100px;
+      width: 100px;
+      opacity: .5;
+      background-color: yellow;
+  }
+  .blueBox{
+      position: relative;
+      left: 11%;
+      bottom: 50px;
+      height: 100px;
+      width: 100px;
+      opacity: .5;
+      background-color: rgb(175, 93, 252);
+  }
+  .blueBox2{
+      position: relative;
+      left: -11%;
+      bottom: 50px;
+      height: 100px;
+      width: 100px;
+      opacity: .5;
+      background-color: rgb(175, 93, 252);
+  }
+  .redBox{
+      position: relative;
+      left: 22%;
+      bottom: 100px;
+      height: 100px;
+      width: 100px;
+      opacity: .5;
+      background-color: rgb(255, 133, 51);
+  }
+  .redBox2{
+      position: relative;
+      left: -22%;
+      bottom: 100px;
+      height: 100px;
+      width: 100px;
+      opacity: .5;
+      background-color: rgb(255, 133, 51);
+  }
+  .greenBox{
+      position: relative;
+      left: 34%;
+      bottom: 150px;
+      height: 100px;
+      width: 100px;
+      opacity: .5;
+      background-color: rgb(79, 207, 79);
+  }
+  .greenBox2{
+      position: relative;
+      left:-34%;
+      bottom: 150px;
+      height: 100px;
+      width: 100px;
+      opacity: .5;
+      background-color: rgb(79, 207, 79);
+  }
